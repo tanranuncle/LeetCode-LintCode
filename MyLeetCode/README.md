@@ -8,7 +8,7 @@
 
 **下面是题目的链接：**    
 
-1. [twoSum](https://github.com/tanranuncle/MyLeetCode/blob/master/1.twoSum.md)
+1. [twoSum](https://github.com/tanranuncle/LeetCode-LintCode/blob/master/MyLeetCode/easy/1.twoSum.md)
 
 
 
