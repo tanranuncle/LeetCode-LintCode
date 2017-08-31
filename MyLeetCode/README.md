@@ -6,9 +6,12 @@
 ### 持续更新中。。。
 
 
-**下面是题目的链接：**    
-
+**下面是题目的链接：**    
+### Easy
 1. [twoSum](https://github.com/tanranuncle/LeetCode-LintCode/blob/master/MyLeetCode/easy/1.twoSum.md)
-
+### Medium  
+暂无
+### Hard  
+暂无
 
 
