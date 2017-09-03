@@ -11,6 +11,7 @@
 1. [Fibonacci](https://github.com/tanranuncle/LeetCode-LintCode/blob/master/MyLintCode/%E3%80%8A%E5%89%91%E6%8C%87offer%E3%80%8B%E9%A2%98%E7%9B%AE/1.Fibonacci.md)
 2. [单例](https://github.com/tanranuncle/LeetCode-LintCode/blob/master/MyLintCode/%E3%80%8A%E5%89%91%E6%8C%87offer%E3%80%8B%E9%A2%98%E7%9B%AE/2.%E5%8D%95%E4%BE%8B.md)
 3. [空格替换](https://github.com/tanranuncle/LeetCode-LintCode/blob/master/MyLintCode/%E3%80%8A%E5%89%91%E6%8C%87offer%E3%80%8B%E9%A2%98%E7%9B%AE/3.%E7%A9%BA%E6%A0%BC%E6%9B%BF%E6%8D%A2.md)
+4. [二进制中有多少个1](https://github.com/tanranuncle/LeetCode-LintCode/blob/master/MyLintCode/%E3%80%8A%E5%89%91%E6%8C%87offer%E3%80%8B%E9%A2%98%E7%9B%AE/4.%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AA1.md)
 
 
 
