@@ -15,3 +15,5 @@
 
 
 
+## easy  
+1. [字符串置换](https://github.com/tanranuncle/LeetCode-LintCode/blob/master/MyLintCode/easy/1.%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%BD%AE%E6%8D%A2.md)
