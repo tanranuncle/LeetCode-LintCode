@@ -9,9 +9,7 @@
 **下面是题目的链接：**    
 ### Easy
 1. [twoSum](https://github.com/tanranuncle/LeetCode-LintCode/blob/master/MyLeetCode/easy/1.twoSum.md)
-### Medium  
-暂无
-### Hard  
-暂无
+2. [Remove Element](https://github.com/tanranuncle/LeetCode-LintCode/blob/master/MyLeetCode/easy/2.Remove%20Element.md)
+
 
 
