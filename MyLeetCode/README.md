@@ -10,6 +10,7 @@
 ### Easy
 1. [twoSum](https://github.com/tanranuncle/LeetCode-LintCode/blob/master/MyLeetCode/easy/1.twoSum.md)
 2. [Remove Element](https://github.com/tanranuncle/LeetCode-LintCode/blob/master/MyLeetCode/easy/2.Remove%20Element.md)
+3. [Reverse Integer](https://github.com/tanranuncle/LeetCode-LintCode/blob/master/MyLeetCode/easy/3.ReverseInteger.md)
 
 
 
