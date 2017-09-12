@@ -18,3 +18,5 @@
 ## easy  
 1. [字符串置换](https://github.com/tanranuncle/LeetCode-LintCode/blob/master/MyLintCode/easy/1.%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%BD%AE%E6%8D%A2.md)
 2. [移动零](https://github.com/tanranuncle/LeetCode-LintCode/blob/master/MyLintCode/easy/2.%E7%A7%BB%E5%8A%A8%E9%9B%B6.md)
+3. [回文数](https://github.com/tanranuncle/LeetCode-LintCode/blob/master/MyLintCode/easy/3.%E5%9B%9E%E6%96%87%E6%95%B0.md)
+4. [有效的括号序列](https://github.com/tanranuncle/LeetCode-LintCode/blob/master/MyLintCode/easy/4.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7%E5%BA%8F%E5%88%97.md)
